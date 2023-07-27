@@ -6,3 +6,11 @@ module.exports = {
     },
     plugins: [],
   }
+
+  module.exports = {
+    theme: {
+      colors: {
+        bgfruit: '#F85559',
+
+    },
+  }
